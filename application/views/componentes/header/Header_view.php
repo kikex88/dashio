@@ -25,6 +25,11 @@
 	<link href="<?php echo base_url('assets/css/style-responsive.css') ?>" rel="stylesheet">
 	<script src="<?php echo base_url('assets/js/Chart.js') ?>"></script>
 
+	<!--sweet alert 2 -->
+	<script src="<?php echo base_url()?>assets/package/dist/sweetalert2.all.min.js"></script>
+	<script src="<?php echo base_url()?>assets/package/dist/sweetalert2.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="<?php echo base_url()?>assets/package/dist/sweetalert2.min.css">
+
 	<!-- =======================================================
 		Template Name: Dashio
 		Template URL: https://templatemag.com/dashio-bootstrap-admin-template/
