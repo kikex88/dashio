@@ -42,6 +42,33 @@ a, a:hover, a:focus {
     color: #fff;
 }
 
+/* error para recuperar login*/
+.error-page-int  {
+    max-width: 500px;
+    padding: 20px 0;
+    width: 80%;
+    position: relative;
+    margin: 0 auto;
+}
+
+
+.error-pagewrap {
+    min-height: 100vh;
+    text-align: center;
+}
+.error-pagewrap:before {
+    content: '';
+    height: 100vh;
+    width: 1px;
+}
+.error-page-int, .error-pagewrap:before {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+/********************************************/
+
+
 #container {
     width: 100%;
     height: 100%;
@@ -1979,6 +2006,31 @@ ul li {
 	margin-top: 20px;
 	margin-bottom: 15px;
 }
+
+
+
+/*RESTABLECER CONTRASEÑA*/
+.rest-pass {
+	max-width: 450px;
+	margin: 100px auto 0;
+	background: #fff;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.rest-pass h2.rest-pass-heading {
+	margin: 0;
+	padding: 25px 20px;
+	text-align: center;
+	background: #4ecdc4;
+	border-radius: 5px 5px 0 0;
+	-webkit-border-radius: 5px 5px 0 0;
+	color: #fff;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+
 
 
 /*LOCK SCREEN CONF*/

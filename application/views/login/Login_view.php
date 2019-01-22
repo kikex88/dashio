@@ -11,7 +11,7 @@
             <a data-toggle="modal" href="#"> ¿Olvidaste tu contraseña?</a>
             </span>
             </label>
-          <button class="btn btn-theme btn-block" href="index.html" type="submit"><i class="fa fa-lock"></i> SIGN IN</button>
+          <button class="btn btn-theme btn-block" href="#" type="submit"><i class="fa fa-lock"></i> Iniciar sesión</button>
           
         </div>
         <!-- Modal -->
